@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Set-DnsClientServerDoh</h1>
+<h1 style="text-align: center;">Set-DnsClientDohServer</h1>
 
 <p align: "center">
 This function sets your DNS servers then edits the registry to use the right URL to encrypt your traffic for DNS over HTTPS.
