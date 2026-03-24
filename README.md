@@ -18,7 +18,7 @@ There's an information stream to help diagnose any issues that may arise. You'll
 
 Here's an example of the function splatted and its output:
 
-```
+```powershell
 PS C:\Windows\system32> $DNS = @{
 >>         DoHTemplate       = "https://dns.google/dns-query"
 >>         ServerAddress     = "8.8.8.8","8.8.4.4","2001:4860:4860::8844","2001:4860:4860::8888"
